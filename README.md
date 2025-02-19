@@ -69,4 +69,3 @@ img_to_pdf_converter/
 ├── requirements.txt     # Dependencies list
 ├── README.md            # Project documentation
 ```
-# img_to_pdf_converter
