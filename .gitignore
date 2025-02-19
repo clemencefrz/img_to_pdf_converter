@@ -1,0 +1,52 @@
+# 📦 Python-related ignores
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.swp
+*.swo
+*.DS_Store
+
+# 🚀 Virtual environments
+env/
+venv/
+ENV/
+*.venv
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 🔥 Dependencies
+*.egg-info/
+*.egg
+*.whl
+build/
+dist/
+
+# 🛠️ IDEs & Editors
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+
+# 🔍 Logs & Temp files
+*.log
+*.tmp
+*.bak
+*.orig
+*.swp
+*.swo
+*~
+
+# 🧪 Test & Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+*.cover
+.hypothesis/
+
+# 🚀 Git ignores
+.git/
